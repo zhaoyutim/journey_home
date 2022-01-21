@@ -20,7 +20,7 @@ Biden administration suspending 44 U.S flights by Chinese carriers
 The Biden administration action came after Chinese authorities suspended 20 United Airlines, 10 American Airlines (NASDAQ:AAL) and 14 Delta Air Lines (NYSE:DAL) flights since Dec. 31 after some passengers tested positive for COVID-19. The Transportation Department said as recently as Tuesday that the Chinese government had canceled U.S. flights.
 - 中国清零政策遭遇挑战\
 https://www.theguardian.com/world/2022/jan/21/not-sustainable-omicron-tests-chinas-zero-covid-policy-as-first-cases-detected \
-‘Not sustainable’: Omicron tests China’s zero Covid policy as first cases detected
+‘Not sustainable’: Omicron tests China’s zero Covid policy as first cases detected \
 In the long run, however, the zero tolerance policy is “not sustainable and unnecessary, and the arrival of Omicron might make it even more challenging”, he said. “But China is too big a ship to change direction. It does not have the wisdom or capability to do it as neatly as Hong Kong or Taiwan. It is challenging and costly either to maintain it or to give it up.”
 
 ## Update: 2021-01-20
