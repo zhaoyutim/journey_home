@@ -6,6 +6,9 @@ https://weibo.com/ttarticle/p/show?id=2309404728153276023220
 吴尊友：这种可能性比较大，对于欧美国家来说，放开与不放开，对其本国疫情基本没有多大影响。欧美国家之间完全放开后，对中国构成的压力会比较大。中国怎么应对这种变化，还需要进一步研究。”\
 - 《柳叶刀》评论 ：随着奥密克戎高速传播，新冠大流行有望结束 \
 https://k.sina.cn/article_1887344341_707e96d50200179q2.html \
+原文地址
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00100-3/fulltext \
+A question remains in relation to the countries pursuing zero COVID-19 strategies, such as China and New Zealand. China has local omicron transmission in January, 2022.9,10 Given the high transmissibility of omicron, it seems unlikely that China or New Zealand will be able to permanently exclude the omicron wave. For zero COVID-19 countries, the question will be one of timing. Later omicron surges will allow further progress on increasing vaccination coverage and better understanding of the impact of the omicron variant in a fairly immunologically naive population.
 - 泰国将于2月恢复入境免隔离政策\
 https://www.thepaper.cn/newsDetail_forward_16392574 \
 - 爱尔兰即将宣布取消新冠限制\
