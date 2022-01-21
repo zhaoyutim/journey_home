@@ -20,3 +20,11 @@ http://www.gov.cn/zhengce/content/2022-01/20/content_5669468.htm \
 “与旅游客源国、客源地在国际航运、边境通行、疫苗接种、旅游团队组织、医疗保险等方面加强沟通，本着对生命健康高度负责的态度，始终坚守安全底线，把疫情防控放在首位，严格执行国际客运航班“熔断”措施，动态精准调整来华人员入境政策。科学制定并实施入境旅游疫情防控技术指南，强化入境旅游接待重点人员、重点场所防控，严格落实门票实名制预约制度。在此基础上，稳妥推进外籍（境外）人员来华邮轮旅游、自驾游便利化和通关便利化，进一步提升入境服务水平。” \
 - 法国宣步二月放松部分检测\
 https://www.france24.com/en/france/20220120-france-says-will-loosen-covid-19-measures-from-february \
+- 美国交通部或将取消44班中国航司运营的美国赴华航班\
+https://www.investing.com/news/stock-market-news/biden-administration-suspending-44-chinese-carrier-us-flights-2745155 \
+Biden administration suspending 44 U.S flights by Chinese carriers
+The Biden administration action came after Chinese authorities suspended 20 United Airlines, 10 American Airlines (NASDAQ:AAL) and 14 Delta Air Lines (NYSE:DAL) flights since Dec. 31 after some passengers tested positive for COVID-19. The Transportation Department said as recently as Tuesday that the Chinese government had canceled U.S. flights.
+- 中国清零政策遭遇挑战\
+https://www.theguardian.com/world/2022/jan/21/not-sustainable-omicron-tests-chinas-zero-covid-policy-as-first-cases-detected \
+‘Not sustainable’: Omicron tests China’s zero Covid policy as first cases detected
+In the long run, however, the zero tolerance policy is “not sustainable and unnecessary, and the arrival of Omicron might make it even more challenging”, he said. “But China is too big a ship to change direction. It does not have the wisdom or capability to do it as neatly as Hong Kong or Taiwan. It is challenging and costly either to maintain it or to give it up.”
