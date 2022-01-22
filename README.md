@@ -1,5 +1,5 @@
 # 回国信息及Covid-19相关新闻汇总
-## Update: 2021-01-21
+## Update: 2021-01-22
 WHO建议取消或者放松跨境旅行限制
 https://www.who.int/news/item/19-01-2022-statement-on-the-tenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic \
 “MODIFIED: Lift or ease international traffic bans as they do not provide added value and continue to contribute to the economic and social stress experienced by States Parties. ”\
