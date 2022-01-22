@@ -1,5 +1,9 @@
 # 回国信息及Covid-19相关新闻汇总
 ## Update: 2021-01-21
+WHO建议取消或者放松跨境旅行限制
+https://www.who.int/news/item/19-01-2022-statement-on-the-tenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic \
+“MODIFIED: Lift or ease international traffic bans as they do not provide added value and continue to contribute to the economic and social stress experienced by States Parties. ”\
+## Update: 2021-01-21
 - 吴尊友接受新京报采访\
 https://weibo.com/ttarticle/p/show?id=2309404728153276023220
 “新京智库：欧美国家的一些学者认为，2022年春季以后，疫情管控可能就要放开了。你对此怎么看？\
