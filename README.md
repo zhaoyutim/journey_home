@@ -3,6 +3,11 @@
 張文宏：Omicron不容忽視　應再加強公衞體系建設\
 https://www.wenweipo.com/a/202201/22/AP61ebb0fbe4b03103e0c58b27.html \
 “他以上海為例，建議能針對「疫情規模超出現在5倍或者10倍」做好預案，包括實戰演練、加強救治體系建設、加快抗疫科技平台建設等等，並應做好對更基層醫療機構的培訓和分級診療的培訓及物資準備。” \
+北京奥组委降低COVID-19检测的阴性门槛
+https://www.cbc.ca/sports/beijing-olympics-devin-heroux-jan-23-1.6324718
+“The Beijing Olympic Committee and Chinese authorities are lowering the threshold for producing a negative test for any participant arriving at the Games, dropping the cycle threshold (Ct) value from 40 to 35” \
+The higher the Ct value, the less infectious a person with COVID-19 is. Many places in Canada use a Ct value of 35.\
+
 ## Update: 2022-01-22
 WHO建议取消或者放松跨境旅行限制 \
 https://www.who.int/news/item/19-01-2022-statement-on-the-tenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic \
