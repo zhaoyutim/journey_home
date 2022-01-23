@@ -1,4 +1,8 @@
 # 回国信息及Covid-19相关新闻汇总
+## Update: 2021-01-23
+張文宏：Omicron不容忽視　應再加強公衞體系建設\
+https://www.wenweipo.com/a/202201/22/AP61ebb0fbe4b03103e0c58b27.html \
+“他以上海為例，建議能針對「疫情規模超出現在5倍或者10倍」做好預案，包括實戰演練、加強救治體系建設、加快抗疫科技平台建設等等，並應做好對更基層醫療機構的培訓和分級診療的培訓及物資準備。” \
 ## Update: 2021-01-22
 WHO建议取消或者放松跨境旅行限制 \
 https://www.who.int/news/item/19-01-2022-statement-on-the-tenth-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-coronavirus-disease-(covid-19)-pandemic \
