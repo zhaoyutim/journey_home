@@ -1,5 +1,5 @@
 # 回国信息及Covid-19相关新闻汇总
-##Update 2022-01-24
+## Update 2022-01-24
 世卫：奥密克戎可能使欧洲疫情走向终结\
 https://www.rfi.fr/en/europe-could-be-headed-for-pandemic-endgame-who \
 https://www.zaobao.com.sg/realtime/world/story20220124-1236050 \
