@@ -1,8 +1,10 @@
 # 回国信息及Covid-19相关新闻汇总
-## Update 2022-01-24
+## Update: 2022-01-24
+
 世卫：奥密克戎可能使欧洲疫情走向终结\
 https://www.rfi.fr/en/europe-could-be-headed-for-pandemic-endgame-who \
 https://www.zaobao.com.sg/realtime/world/story20220124-1236050 \
+"世界卫生组织表示，奥密克戎变种毒株已把冠病大流行带到一个新的阶段，并可能使欧洲的疫情走向终结（endgame）。不过，现在还不是时候把冠病大流行视为一种地方性流行病。世界卫生组织欧洲区域办事处主任克鲁格（Hans Kluge）星期天（1月23日）接受法新社访问时说，到了3月，可能有60%的欧洲人都已感染奥密克戎变种毒株，'本区域的疫情有可能正在走向结束'。"
 
 ## Update: 2022-01-23
 張文宏：Omicron不容忽視　應再加強公衞體系建設\
