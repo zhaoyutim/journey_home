@@ -8,7 +8,7 @@ A valid EU Digital COVID Certificate includes:
 
 - A vaccination certificate for a vaccine approved at European level for which at least 14 days and no more than 270 days have passed since the last dose of the primary vaccination series or for which the person has received a booster dose. EU countries could also accept vaccination certificates for vaccines approved by national authorities or the WHO.
 - A negative PCR test result obtained no more than 72 hours before travel or a negative rapid antigen test obtained no more than 24 hours before travel
-- A certificate of recovery indicating that no more than 180 days have passed since the date of the first positive test result.
+- A certificate of recovery indicating that no more than 180 days have passed since the date of the first positive test result. \
 Persons who are not in possession of an EU Digital COVID Certificate could be required to undergo a test prior to or no later than 24 hours after arrival. Travellers with an essential function or need, cross-border commuters and children under 12 should be exempt from this requirement.
 
 ## Update: 2022-01-24
