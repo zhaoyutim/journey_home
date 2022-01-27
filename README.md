@@ -1,5 +1,7 @@
 # 回国信息及Covid-19相关新闻汇总
 ## Update: 2022-01-27
+欧洲药品管理局批准使用辉瑞口服药 \
+https://www.ema.europa.eu/en/news/covid-19-ema-recommends-conditional-marketing-authorisation-paxlovid
 欧盟议会决定2022-02-01采取person-based approach \
 https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/travel-during-coronavirus-pandemic/common-approach-travel-measures-eu_en \
 Travellers in possession of a valid EU digital COVID Certificate should not be subject to additional restrictions to free movement.
