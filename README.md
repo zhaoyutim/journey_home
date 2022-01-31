@@ -1,3 +1,31 @@
+# 权威信息渠道
+Dr. John Campbell-客观冷静的Covid相关数据与研究分析师-口音友好-语速感人\
+https://www.youtube.com/channel/UCF9IOB2TExg3QIBupFtBDxg\
+worldometers感染人数与死亡人数统计（含各国七日平均数据，更新及时）\
+https://www.worldometers.info/coronavirus/
+南非感染人数、死亡人数、住院人数、重症人数实时统计（含各省、更新及时，图表清晰）\
+https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/daily-hospital-surveillance-datcov-report/
+南非英国感染人数、死亡人数、住院人数分析（更新及时，图表清晰）\
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights/
+# 回国检测情况-已取消灭活疫苗血清检测的国家
+美国（需在起飞地自我隔离7日）\
+http://www.china-embassy.org/lsfw/sjc/zytz_120351/202201/t20220105_10478938.htm
+韩国\
+http://kr.china-embassy.org/chn/lsfw/202201/t20220106_10479423.htm
+挪威\
+http://www.chinese-embassy.no/chn/lsfw/fwxx/202111/t20211116_10448658.htm
+卢森堡\
+http://lu.china-embassy.org/lsfw/202201/t20220104_10478872.htm
+英国\
+http://www.chinese-embassy.org.uk/chn/lsfw/jiankangma2021/202112/t20211230_10477127.htm
+印尼\
+http://id.china-embassy.org/chn/lsfw/202112/t20211225_10475765.htm
+肯尼亚\
+http://ke.china-embassy.org/chn/lsfw/202112/t20211228_10476176.htm
+孟加拉\
+http://bd.china-embassy.org/chn/lsyw/lsxx/202011/t20201102_1780828.htm
+
+
 # 回国信息及Covid-19相关新闻汇总
 ## Update: 2022-01-27
 欧洲药品管理局批准使用辉瑞口服药 \
