@@ -6,7 +6,7 @@ https://www.worldometers.info/coronavirus/
 南非感染人数、死亡人数、住院人数、重症人数实时统计（含各省、更新及时，图表清晰）\
 https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/daily-hospital-surveillance-datcov-report/ \
 南非英国感染人数、死亡人数、住院人数分析（更新及时，图表清晰）\
-https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights/ \
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights/
 # 回国检测情况-已取消灭活疫苗血清检测的国家
 美国（需在起飞地自我隔离7日）\
 http://www.china-embassy.org/lsfw/sjc/zytz_120351/202201/t20220105_10478938.htm \
@@ -23,7 +23,7 @@ http://id.china-embassy.org/chn/lsfw/202112/t20211225_10475765.htm \
 肯尼亚\
 http://ke.china-embassy.org/chn/lsfw/202112/t20211228_10476176.htm \
 孟加拉\
-http://bd.china-embassy.org/chn/lsyw/lsxx/202011/t20201102_1780828.htm \
+http://bd.china-embassy.org/chn/lsyw/lsxx/202011/t20201102_1780828.htm 
 
 
 # 回国信息及Covid-19相关新闻汇总
