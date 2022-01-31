@@ -1,4 +1,4 @@
-# 权威信息渠道
+# 权威信息发布渠道（2022-01-31更新）
 Dr. John Campbell-客观冷静的Covid相关数据与研究分析师-口音友好-语速感人\
 https://www.youtube.com/channel/UCF9IOB2TExg3QIBupFtBDxg\
 worldometers感染人数与死亡人数统计（含各国七日平均数据，更新及时）\
@@ -7,7 +7,7 @@ https://www.worldometers.info/coronavirus/
 https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/daily-hospital-surveillance-datcov-report/ \
 南非英国感染人数、死亡人数、住院人数分析（更新及时，图表清晰）\
 https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights/
-# 回国检测情况-已取消灭活疫苗血清检测的国家
+# 回国检测情况-已取消灭活疫苗血清检测的国家（2022-01-31更新）
 美国（需在起飞地自我隔离7日）\
 http://www.china-embassy.org/lsfw/sjc/zytz_120351/202201/t20220105_10478938.htm \
 韩国\
