@@ -8,6 +8,8 @@ https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-re
 南非英国感染人数、死亡人数、住院人数分析（更新及时，图表清晰）\
 https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights/
 # 回国检测情况-已取消灭活疫苗血清检测的国家（2022-01-31更新）
+德国 \
+http://de.china-embassy.org/sgyw/202202/t20220218_10643168.htm\
 美国（需在起飞地自我隔离7日）\
 http://www.china-embassy.org/lsfw/sjc/zytz_120351/202201/t20220105_10478938.htm \
 韩国\
@@ -22,6 +24,8 @@ http://www.chinese-embassy.org.uk/chn/lsfw/jiankangma2021/202112/t20211230_10477
 http://id.china-embassy.org/chn/lsfw/202112/t20211225_10475765.htm \
 肯尼亚\
 http://ke.china-embassy.org/chn/lsfw/202112/t20211228_10476176.htm \
+毛里求斯\
+http://mu.china-embassy.org/sgxw/202201/t20220124_10632696.htm \
 孟加拉\
 http://bd.china-embassy.org/chn/lsyw/lsxx/202011/t20201102_1780828.htm 
 
