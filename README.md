@@ -7,7 +7,7 @@ https://www.worldometers.info/coronavirus/
 https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/daily-hospital-surveillance-datcov-report/ \
 南非英国感染人数、死亡人数、住院人数分析（更新及时，图表清晰）\
 https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights/
-# 回国检测情况-已取消灭活疫苗血清检测的国家（2022-01-31更新）
+# 回国检测情况-已取消灭活疫苗血清检测的国家（2022-02-17更新）
 德国 \
 http://de.china-embassy.org/sgyw/202202/t20220218_10643168.htm\
 美国（需在起飞地自我隔离7日）\
